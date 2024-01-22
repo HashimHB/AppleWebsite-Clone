@@ -13,3 +13,7 @@ Responsive Design: The website is designed to be fully responsive, ensuring opti
 
 Demo
 For a live demo, check out my Website ->
+
+
+
+If you'd like to contribute to the project, feel free to submit a pull request. Contributions are welcome!
